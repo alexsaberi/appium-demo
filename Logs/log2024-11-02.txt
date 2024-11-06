@@ -1,0 +1,224 @@
+2024-11-02 13:34:45,325 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 13:38:39,334 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 13:39:14,950 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 13:41:02,779 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 13:41:04,422 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 13:41:18,059 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 13:41:19,383 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 14:43:43,148 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 14:43:44,438 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 14:43:45,931 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 14:49:36,528 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 14:49:37,858 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 14:49:39,540 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 14:49:40,961 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 14:49:42,072 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 14:59:15,290 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 14:59:16,604 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 14:59:18,157 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 14:59:19,654 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 14:59:21,073 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 14:59:23,350 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:00:35,638 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:00:36,963 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:00:38,551 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:00:40,039 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:00:41,063 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:00:43,307 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:02:20,070 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:02:21,458 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:02:23,085 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:02:24,570 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:02:25,918 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:02:28,189 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:02:29,924 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:02:55,127 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:02:56,890 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:02:58,471 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:02:59,993 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:03:01,122 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:03:03,874 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:03:05,616 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:03:18,678 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:03:20,195 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:03:21,849 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:03:23,360 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:03:24,459 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:03:26,700 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:03:28,404 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:03:41,602 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:03:43,069 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:03:44,666 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:03:46,116 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:03:47,218 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:03:49,478 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:03:51,231 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:16:02,868 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:16:04,195 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:16:05,939 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:16:07,404 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:16:08,480 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:16:10,810 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:16:12,611 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:16:14,133 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 15:16:15,919 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 15:16:17,281 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 15:32:26,593 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:33:43,907 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:33:45,198 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:33:46,919 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:33:48,299 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:33:49,419 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:33:51,837 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:33:53,626 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:33:54,857 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 15:33:56,486 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 15:33:57,408 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 15:33:58,414 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 15:33:59,859 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 15:34:01,399 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 15:34:51,662 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:35:16,945 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 15:35:18,286 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 15:35:19,903 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 15:35:21,370 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 15:35:22,456 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 15:35:24,743 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 15:35:26,495 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 15:35:28,683 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 15:35:29,786 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 15:35:30,702 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 15:35:31,702 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 15:35:32,786 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 15:35:34,342 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:01:56,101 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 16:01:57,446 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 16:01:59,125 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 16:02:00,441 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 16:02:01,527 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 16:02:04,514 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 16:02:06,303 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 16:02:08,502 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 16:02:10,029 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 16:02:11,515 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 16:02:12,595 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 16:02:13,734 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 16:02:15,673 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:02:28,599 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 16:05:18,476 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 16:05:19,818 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 16:05:21,824 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 16:05:23,292 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 16:05:24,413 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 16:05:26,647 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 16:05:28,435 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 16:05:30,518 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 16:05:32,182 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 16:05:33,907 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 16:05:35,024 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 16:05:36,135 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 16:05:38,140 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:05:51,083 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 16:06:55,668 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 16:06:56,993 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 16:06:58,715 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 16:07:00,220 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 16:07:01,352 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 16:07:03,810 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 16:07:05,776 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 16:07:07,388 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 16:07:09,064 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 16:07:11,060 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 16:07:12,091 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 16:07:13,201 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 16:07:15,028 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:07:27,872 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 16:07:29,442 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH
+2024-11-02 16:47:15,198 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 16:47:18,198 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 16:47:20,263 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 16:47:21,711 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 16:47:22,681 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 16:47:25,151 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 16:47:26,889 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 16:47:29,331 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 16:47:30,926 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 16:47:32,553 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 16:47:33,703 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 16:47:34,787 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 16:47:36,552 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:47:49,445 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 16:47:50,746 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH
+2024-11-02 16:56:24,784 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 16:56:26,317 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 16:56:27,839 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 16:56:29,367 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 16:56:30,495 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 16:56:32,756 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 16:56:34,492 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 16:56:36,615 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 16:56:38,323 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 16:56:39,954 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 16:56:41,055 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 16:56:42,169 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 16:56:43,971 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:56:56,997 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 16:56:58,265 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH
+2024-11-02 16:59:19,048 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 16:59:20,618 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 16:59:22,102 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 16:59:23,588 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 16:59:24,714 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 16:59:27,009 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 16:59:28,697 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 16:59:31,312 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 16:59:32,980 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 16:59:34,652 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 16:59:35,716 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 16:59:36,842 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 16:59:38,539 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 16:59:51,527 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 17:05:29,626 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 17:05:30,955 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 17:05:32,674 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 17:05:34,208 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 17:05:35,351 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 17:05:37,543 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 17:05:39,246 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 17:05:41,382 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 17:05:43,116 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 17:05:44,724 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 17:05:45,883 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 17:05:46,944 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 17:05:48,766 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 17:06:01,746 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 17:06:46,244 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 17:06:47,852 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 17:06:49,602 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 17:06:51,114 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 17:06:52,226 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 17:06:54,420 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 17:06:56,041 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 17:06:58,178 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 17:06:59,726 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 17:07:01,627 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 17:07:02,789 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 17:07:03,973 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 17:07:05,757 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 17:07:18,634 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 17:07:19,983 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH
+2024-11-02 17:09:40,207 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-02 17:09:41,576 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-02 17:09:43,240 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-02 17:09:44,687 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-02 17:09:45,799 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-02 17:09:48,095 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-02 17:09:49,831 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-02 17:09:51,977 - BasePage.py:[41] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+2024-11-02 17:09:53,686 - BasePage.py:[41] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-02 17:09:55,359 - BasePage.py:[41] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-02 17:09:56,503 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-02 17:09:57,680 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-02 17:09:59,601 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-02 17:10:12,461 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-02 17:10:13,833 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH

@@ -1,0 +1,6 @@
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an Element btnShProfile_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an Element setting_gear_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an Element profile_menu_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an Element change_picture_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an Element library_photo_XPATH
+[32mINFO    [0m Pages.BasePage:BasePage.py:23 Clicking on an Element first_photo_XPATH

@@ -1,0 +1,4 @@
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element login_using_user_pass_XPATH
+INFO     Pages.BasePage:BasePage.py:46 Typing in an Element username_field_XPATH entered the value as : itsaberi
+INFO     Pages.BasePage:BasePage.py:46 Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element login_XPATH

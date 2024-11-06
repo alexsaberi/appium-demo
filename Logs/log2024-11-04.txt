@@ -1,0 +1,186 @@
+2024-11-04 09:48:28,788 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 09:48:30,754 - BasePage.py:[41] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 09:48:32,083 - BasePage.py:[41] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 09:49:29,939 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 09:49:31,870 - BasePage.py:[41] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 09:49:33,366 - BasePage.py:[41] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 09:49:34,390 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 09:54:59,421 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 09:55:01,489 - BasePage.py:[41] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 09:55:02,840 - BasePage.py:[41] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 09:55:03,813 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 10:17:07,162 - BasePage.py:[27] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:17:08,488 - BasePage.py:[27] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:17:58,900 - BasePage.py:[27] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:18:00,238 - BasePage.py:[27] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:19:47,208 - BasePage.py:[27] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:19:48,549 - BasePage.py:[27] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:20:48,256 - BasePage.py:[29] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:20:49,587 - BasePage.py:[29] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:20:56,061 - BasePage.py:[29] - [INFO] - Clicking on an Element logout_ANDROID_UIAUTOMATOR
+2024-11-04 10:21:50,586 - BasePage.py:[28] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:21:51,887 - BasePage.py:[28] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:36:34,577 - BasePage.py:[28] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:36:35,930 - BasePage.py:[28] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:37:37,895 - BasePage.py:[28] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:37:39,283 - BasePage.py:[28] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:38:25,974 - BasePage.py:[28] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:38:46,355 - BasePage.py:[28] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:38:47,678 - BasePage.py:[28] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:38:55,012 - BasePage.py:[28] - [INFO] - Clicking on an Element logout_ANDROID_UIAUTOMATOR
+2024-11-04 10:44:42,434 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:44:43,775 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:45:33,701 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:45:35,029 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:49:12,360 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:49:13,722 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:49:21,813 - BasePage.py:[23] - [INFO] - Clicking on an Element <appium.webdriver.webelement.WebElement (session="9af81b54-ec91-4294-a72e-09a3ec6b3695", element="00000000-0000-0af6-ffff-ffff000002a7")>
+2024-11-04 10:50:10,682 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:50:11,996 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:50:35,241 - BasePage.py:[23] - [INFO] - Clicking on an Element <appium.webdriver.webelement.WebElement (session="5d7b86b8-404a-4b07-8e3f-777a2bdf4c3c", element="00000000-0000-0afb-ffff-ffff000002a7")>
+2024-11-04 10:52:16,889 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:52:18,237 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:52:24,578 - BasePage.py:[23] - [INFO] - Clicking on an Element <appium.webdriver.webelement.WebElement (session="fc35359d-fc9f-462b-81f1-d70d8eb68167", element="00000000-0000-0afe-ffff-ffff000002a7")>
+2024-11-04 10:52:56,857 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:52:58,175 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:55:57,585 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:55:58,933 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:56:06,993 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_ACCESSIBILITYID
+2024-11-04 10:56:46,453 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:56:47,813 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:58:03,471 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 10:58:04,830 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 10:58:11,860 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 11:01:45,312 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 11:01:46,638 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 11:01:53,329 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 11:11:45,904 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:11:47,343 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:11:48,669 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:11:49,712 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:12:49,917 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:12:51,828 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:12:53,285 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:12:53,993 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:15:25,247 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:15:27,160 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:15:28,587 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:15:29,702 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:18:47,700 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:18:49,370 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:18:50,162 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:18:51,134 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:21:54,200 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:21:55,392 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:21:56,737 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:21:57,841 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:22:06,635 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 11:22:07,933 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 11:22:16,239 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 11:33:17,147 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:33:18,838 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:33:20,225 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:33:21,397 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:33:29,237 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 11:33:30,555 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 11:33:37,181 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 11:44:07,641 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:44:09,407 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 11:44:10,764 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 11:44:11,794 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 11:44:19,613 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 11:44:20,937 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 11:44:28,330 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 11:50:23,174 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 11:50:24,958 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 12:51:45,592 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 12:51:47,231 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 12:51:48,588 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 12:51:49,633 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 12:51:56,867 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 12:51:58,171 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 12:51:59,887 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-04 12:52:01,936 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-04 12:52:03,077 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-04 12:52:05,489 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-04 12:52:21,819 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 12:52:23,148 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 12:52:30,054 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 12:57:28,613 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 12:57:29,917 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 12:57:31,617 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-04 12:57:33,249 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-04 12:57:34,409 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-04 12:57:36,737 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-04 12:57:38,525 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-04 12:57:40,653 - BasePage.py:[46] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi2
+2024-11-04 12:57:42,126 - BasePage.py:[46] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-04 12:57:43,507 - BasePage.py:[46] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-04 12:57:44,441 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-04 12:57:45,563 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-04 12:57:47,348 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-04 12:58:00,099 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-04 12:58:01,983 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH
+2024-11-04 12:58:10,379 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 12:58:10,744 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 12:58:17,629 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 12:58:34,104 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 12:58:35,740 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 12:58:36,562 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 12:58:37,555 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 12:58:45,805 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 12:58:47,145 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 12:58:48,801 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-04 12:58:50,329 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-04 12:58:51,801 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-04 12:58:54,009 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-04 12:58:55,695 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-04 12:58:56,959 - BasePage.py:[46] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi2
+2024-11-04 12:58:59,632 - BasePage.py:[46] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-04 12:59:11,976 - BasePage.py:[46] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-04 12:59:13,078 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-04 12:59:14,202 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-04 12:59:15,779 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-04 13:00:00,780 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 13:00:02,613 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 13:00:03,991 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 13:00:05,021 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 13:00:12,554 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 13:00:13,887 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 13:00:15,677 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-04 13:00:17,063 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-04 13:00:18,176 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-04 13:00:20,419 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-04 13:00:22,122 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-04 13:00:24,078 - BasePage.py:[46] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi2
+2024-11-04 13:00:25,740 - BasePage.py:[46] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-04 13:00:27,291 - BasePage.py:[46] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-04 13:00:28,457 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-04 13:00:29,567 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-04 13:00:31,392 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-04 13:00:44,338 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-04 13:01:00,814 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 13:01:02,225 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 13:01:09,104 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH
+2024-11-04 13:01:27,794 - BasePage.py:[23] - [INFO] - Clicking on an Element login_using_user_pass_XPATH
+2024-11-04 13:01:29,501 - BasePage.py:[46] - [INFO] - Typing in an Element username_field_XPATH entered the value as : itsaberi
+2024-11-04 13:01:30,436 - BasePage.py:[46] - [INFO] - Typing in an Element password_field_XPATH entered the value as : ZXCvbn123
+2024-11-04 13:01:31,515 - BasePage.py:[23] - [INFO] - Clicking on an Element login_XPATH
+2024-11-04 13:01:39,222 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 13:01:40,559 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 13:01:42,332 - BasePage.py:[23] - [INFO] - Clicking on an Element profile_menu_XPATH
+2024-11-04 13:01:43,944 - BasePage.py:[23] - [INFO] - Clicking on an Element change_picture_XPATH
+2024-11-04 13:01:45,052 - BasePage.py:[23] - [INFO] - Clicking on an Element library_photo_XPATH
+2024-11-04 13:01:47,281 - BasePage.py:[23] - [INFO] - Clicking on an Element first_photo_XPATH
+2024-11-04 13:01:49,001 - BasePage.py:[23] - [INFO] - Clicking on an Element accept_photo_XPATH
+2024-11-04 13:01:51,213 - BasePage.py:[46] - [INFO] - Typing in an Element name_field_XPATH entered the value as : Alireza Saberi2
+2024-11-04 13:01:52,927 - BasePage.py:[46] - [INFO] - Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+2024-11-04 13:01:54,682 - BasePage.py:[46] - [INFO] - Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+2024-11-04 13:01:55,737 - BasePage.py:[23] - [INFO] - Clicking on an Element sex_field_XPATH
+2024-11-04 13:01:56,865 - BasePage.py:[23] - [INFO] - Clicking on an Element male_item_XPATH
+2024-11-04 13:01:58,765 - BasePage.py:[23] - [INFO] - Clicking on an Element birthday_field_XPATH
+2024-11-04 13:02:12,078 - BasePage.py:[23] - [INFO] - Clicking on an Element save_XPATH
+2024-11-04 13:02:13,460 - BasePage.py:[23] - [INFO] - Clicking on an Element ok_XPATH
+2024-11-04 13:02:20,454 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH
+2024-11-04 13:02:22,036 - BasePage.py:[23] - [INFO] - Clicking on an Element setting_gear_XPATH
+2024-11-04 13:02:29,159 - BasePage.py:[23] - [INFO] - Clicking on an Element logout_XPATH

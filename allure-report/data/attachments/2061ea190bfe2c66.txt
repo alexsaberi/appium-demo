@@ -1,0 +1,3 @@
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element btnShProfile_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element setting_gear_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element logout_XPATH

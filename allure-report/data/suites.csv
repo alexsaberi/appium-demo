@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","0","test_login_HAPPY_PATH","","Mon Nov 04 12:47:15 EST 2024","broken","Mon Nov 04 12:47:15 EST 2024","Test_Login","test_login","",""
+"","0","test_login_HAPPY_PATH","","Mon Nov 04 12:17:51 EST 2024","skipped","Mon Nov 04 12:17:51 EST 2024","","","",""
+"","0","test_logout_from_home_HAPPY_PATH","","Mon Nov 04 12:47:23 EST 2024","broken","Mon Nov 04 12:47:23 EST 2024","Test_Logout","test_logout","",""
+"","0","test_changeProfileInfo","","Mon Nov 04 12:47:07 EST 2024","broken","Mon Nov 04 12:47:07 EST 2024","Test_ChangeProfileInfo","test_change_profile_info","",""
+"","0","test_login_HAPPY_PATH","","Mon Nov 04 11:43:26 EST 2024","skipped","Mon Nov 04 11:43:26 EST 2024","","","",""

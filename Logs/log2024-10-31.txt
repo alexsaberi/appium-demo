@@ -1,0 +1,1 @@
+2024-10-31 16:59:02,409 - BasePage.py:[23] - [INFO] - Clicking on an Element btnShProfile_XPATH

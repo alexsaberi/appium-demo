@@ -1,0 +1,15 @@
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element btnShProfile_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element setting_gear_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element profile_menu_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element change_picture_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element library_photo_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element first_photo_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element accept_photo_XPATH
+INFO     Pages.BasePage:BasePage.py:41 Typing in an Element name_field_XPATH entered the value as : Alireza Saberi
+INFO     Pages.BasePage:BasePage.py:41 Typing in an Element bio_field_XPATH entered the value as : I am a QA developer
+INFO     Pages.BasePage:BasePage.py:41 Typing in an Element link_field_XPATH entered the value as : https://www.linkedin.com/in/alireza-saberi/
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element sex_field_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element male_item_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element birthday_field_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element save_XPATH
+INFO     Pages.BasePage:BasePage.py:23 Clicking on an Element ok_XPATH
